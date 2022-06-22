@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url('/image/casal\ 6.jpg') no-repeat center top;
+    
+}
+
+#topo{
+    align-items: center;
+   padding-top: 1%;
+  
+}
+
+.logo{
+    max-width: 100px;
+    width: 100%;
+    margin-left: 50%;
+    margin-top: 10px;
+   
+}
+
+.video{
+    width: 100%;
+}
+
+.imagens{
+    width: 60%;
+    margin-top: 20px;
+    padding: 0px 10px 20px 20px;
+}
+
+.texto0{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    text-align:center;
+    font-size: 15px;
+    margin-top: 20px;
+   padding-left: 20px;
+   padding-right: 15px;
+   padding-top: 0px;
+   padding-bottom: 0px;
+}
+
+article{
+    max-width: 90%;
+    background-color: #1cade2;
+   margin-left: 20px;
+}
+
+aside{
+    padding: 10px 10px 10px 10px;
+    margin: 10px;
+}
+
+#form{
+    background-color:#0097cc;
+    max-width: 500px;
+    width: 70%;
+    padding: 20px;
+    position: absolute;
+    left: 75%;
+    top: 48%;
+    transform: translate(-50%,-50%);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#form h3{
+    text-align: center;
+    color:   white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+#form h4{
+    text-align: center;
+    color:   white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px;
+}
+
+
+
+#texto1{
+    background-color: rgb(216, 216, 253);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    color:   white;
+
+}
+
+#texto2{
+    font-family: 'Roboto', sans-serif;
+    padding-left: 30px;
+    padding-right: 50px;
+    padding-top: 5px;
+    font-size: 21px;
+    color:   white;
+     display:inline-block;
+     text-align:center;
+
+  
+    
+}
+
+.texto3{
+    margin-top: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align:left;
+    padding: 10px;
+    font-size: 15px;
+    text-align: center;
+    color:   white;
+
+}
+
+img{
+    max-width: 20%;
+    margin-left:60px;
+   
+}
+
+.meio{
+    width: 100%;
+    height: 100%;
+    display: inline-flex;
+    padding: 20px;
+    
+}
+
+
+
+
+.whats{
+    max-width: 30%;
+    margin-left: 165px;
+  }
+
+  
