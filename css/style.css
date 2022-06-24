@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background: url('/image/casal\ 6.jpg') no-repeat center top;
+    background: url('/image/casal.jpg') no-repeat center top;
     
 }
 
@@ -58,11 +58,11 @@ aside{
 #form{
     background-color:#0097cc;
     max-width: 500px;
-    width: 70%;
+    width: 100%;
     padding: 20px;
     position: absolute;
     left: 75%;
-    top: 48%;
+    top: 69%;
     transform: translate(-50%,-50%);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -136,4 +136,116 @@ img{
     margin-left: 165px;
   }
 
+ 
+
+.depoimento{
+    max-width: 300px;
+    margin-top: 20px;
+   padding-left: 20px;
+   padding-right: 15px;
+   padding-top: 0px;
+   padding-bottom: 0px;
+ 
+}
+
+/*mobile*/
+
+@media (max-width: 500px) {
+    /* Event form */
+    #event-subscription {
+      flex-direction: column;
+      height: auto;
+      font-size: 2rem;
+    }
+
+    .imagens{
+     
+       bottom: 50px;
+       margin: 0%;
+        width: 115%;  
+        padding-left: 0%;
+        
+    
+       
+        
+    }
+
+  .meio{
+     flex-direction: column;
+     margin: 0%;
+     padding-bottom: 2%;
+     padding-left: 0%;
+     padding-right: 0%;
+     padding-top: 2%;
+    }
+
+    #form{
+     
+     display: contents;
+     left: 0%;
+     max-width: 50%;
+
   
+}
+    #texto2{
+        font-size: 12px;
+    padding-left: 50px;
+    padding-bottom: 0%;
+
+    }
+
+  article{
+  
+   margin-left: 0%;
+  }
+  
+  .video{
+    height: auto;
+  }
+
+  #artevirix{
+    margin-left: 40%;
+  }
+
+  .logo{
+    margin-left: 40%;
+  }
+
+  h4{
+   
+    font-size: 12px;
+   
+  }
+
+  aside{
+    width: 100%;
+    background-color: #1cade2;
+    padding: 0%;
+    margin: 0%;
+
+    
+  }
+  .texto3{
+    margin: 0%;
+    padding: 0%;
+    font-size: 13px;
+  }
+  
+  #charles{
+ 
+     width:90%;
+     margin-left:20%;
+ 
+    }
+
+  .depoimento{
+   margin: 0%;
+    height: auto;
+    padding: 0%;
+  }
+
+  .dep{
+    text-align: center;
+  }
+
+}
